@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "2.1.0",
   "releaseDate": "2025-05-01",
   "changelog": "Added:\n– Drag & drop button reordering via dedicated Edit Mode.\n– Tooltips enabled by default with toggle option in settings.\n– Version number now displayed in the settings panel.\n– Automatic update check system for tracking latest version.\n– Null object creation now enables Motion Blur and applies Motion Tile with presets.\n\nChanged:\n– Major redesign of the Settings panel UI for a cleaner and more intuitive layout.\n– All settings now apply instantly.\n– Improved positioning of the context menu.\n– Minor overall UI design enhancements.\n\nFixed:\n– Bug where the settings panel failed to open.",
   "downloadUrl": "https://github.com/fraiden/quicklayerpro/releases/latest"
