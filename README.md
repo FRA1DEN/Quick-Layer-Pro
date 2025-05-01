@@ -1,8 +1,6 @@
 # Quick-Layer-Pro  
 **QuickLayer Pro** – A sleek extension for After Effects that streamlines layer creation with smart features and customizable color labels.
 
----
-
 ### 🚀 New in v1.1.0
 
 **What's new:**  
@@ -21,10 +19,6 @@
 **What’s fixed:**  
 ✦ Resolved a bug where the settings panel would not open
 
-🔗 [Download the latest version](https://github.com/fraiden/quicklayerpro/releases/latest)
-
----
-
 ### 💡 Features:
 
 ✦ One-click creation of Solid, Text, Adjustment, and Null layers  
@@ -33,8 +27,6 @@
 ✦ Intelligent Null Object parenting  
 ✦ Customizable color labels per layer type  
 ✦ Usage statistics tracking
-
----
 
 ### ❤️ Why you'll love it:
 
@@ -45,7 +37,5 @@
 ⚡ Persistent settings  
 
 Perfect for motion designers who value speed and efficiency. The extension remembers your preferences and adapts to your workflow.
-
----
 
 **Get started with QuickLayer Pro and transform your After Effects layer management today!**
