@@ -1,4 +1,5 @@
-# Quick-Layer-Pro – A sleek extension for After Effects that streamlines layer creation with smart features and customizable color labels.
+# Quick-Layer-Pro
+QuickLayer Pro – A sleek extension for After Effects that streamlines layer creation with smart features and customizable color labels.
 
 
 
