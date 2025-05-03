@@ -42,12 +42,12 @@ Perfect for motion designers who value speed and efficiency. QuickLayer Pro reme
 
 ---
 
-🛠 **What's new in version 1.1.1**
+### 🛠 What's new in version 1.1.1
 
-Added:
-✦ Support for After Effects 2020
+**Added:**
+✦ Support for **After Effects 2020**
 
-Fixed:
-✦ UI issues occurring specifically in After Effects 2020
+**Fixed:**
+✦ UI issues occurring specifically in **After Effects 2020**
 
 ---
