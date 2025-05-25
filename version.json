@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "releaseDate": "2025-05-15",
   "changelog": "Changelog:\n\nNew:\n– Added a QUICK LAYER PRO button in the Settings panel to quickly reopen the info window.\n– Introduced a new 'Text from Markers' feature:\n  When enabled, text layers can be generated from markers on a selected layer.\n  A marker with a comment defines the start point and its text content.\n  The next empty marker defines the end point of the layer.\n  ➤ To activate this mode, type 'Markers' in the input field before pressing Add.\n\nImprovements:\n– Improved animation keyframe generation:\n  If a keyframe already exists on a property, it’s treated as the start — only the end keyframe will be added at the out point of the layer.\n– Enhanced duplicate frame detection:\n  Now detects fake camera movement — where content doesn't change, but position shifts mimic motion. Greatly reduces false positives.\n– Full code optimization for better performance and stability.\n\nFixes:\n– Fixed an issue where tooltips in Settings wouldn't hide even when disabled.\n– Fixed a bug where motion blur wasn't enabled in the composition when creating null objects.",
   "downloadUrl": "https://discord.gg/kcP7TZgdQu"
